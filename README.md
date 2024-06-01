@@ -4,8 +4,8 @@
 
 Experiencia en :
 - Administrador documental con enfasis en procesamiento de datos.
-- Data visualization tools such as Tableau, Power BI and Dash
-- Working with SQL databases
+- Herramientas de BI como Power BI y Looker Studio.
+- Trabajo con base de datos SQL
 - Large Languange Models developments and Prompt Engineering.
 - Passionate in artificial intelligence developments.
 
