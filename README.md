@@ -2,12 +2,12 @@
  <img width="100%" height="auto" src="https://github.com/cristianossa/cristianossa/blob/main/linkedin.png" alt="Profile" />
 </p>
 
-Experiencia en :
-- Administrador documental con enfasis en procesamiento de datos.
-- Herramientas de BI como Power BI y Looker Studio.
-- Trabajo con base de datos SQL
-- Large Languange Models developments and Prompt Engineering.
-- Passionate in artificial intelligence developments.
+- 🤔 Administrador documental con enfasis en procesamiento de datos.
+- 🔭 Trabajo actualmente en Monkum
+- 🌱 Actualmente capacitandome en lenguaje Python
+- ⚡ Experiencia en herramientas BI como Power BI y Looker Studio.
+- 💬 Usando SQL, transformo datos en información clara y accionable.
+- 👯 Apasionado de la IA, especialmente de los desarrollos LLM.
 
 ## 🛠️ Skills
 
@@ -21,14 +21,3 @@ Experiencia en :
 ## 💼 Contact
 
 [![Linkedin](https://img.shields.io/badge/@cristianossa-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristianossa)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
